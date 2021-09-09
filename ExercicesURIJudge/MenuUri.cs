@@ -17,11 +17,11 @@ namespace ExercicesURIJudge
 
         public void SelectAndExecute()
         {
-            int i = 1;
+            int i = 01;
 
             foreach (var exercicio in Exercicios)
             {
-                Console.WriteLine("{0}) {1}", i, exercicio.Key);
+                Console.WriteLine("{0}) {1}", i.ToString("D2"), exercicio.Key);
                 i++;
             }
 
