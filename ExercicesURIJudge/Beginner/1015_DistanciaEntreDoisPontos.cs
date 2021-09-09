@@ -5,8 +5,9 @@ namespace ExercicesURIJudge.Beginner
 {
     class _1015_DistanciaEntreDoisPontos
     {
-        public static void Executar()
+        public static void Execute()
         {
+
             String[] p1 = Console.ReadLine().Split(' ');
             var x1 = double.Parse(p1[0], CultureInfo.InvariantCulture);
             var y1 = double.Parse(p1[1], CultureInfo.InvariantCulture);

@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ExercicesURIJudge.Beginner;
 
+
 namespace ExercicesURIJudge
 {
     class Program
@@ -29,6 +30,9 @@ namespace ExercicesURIJudge
                 {"1013 - O Maior", _1013_OMaior.Execute },
                 {"1014 - Consumo", _1014_Consumo.Execute },
                 {"1015 - Distância Entre Dois Pontos", _1015_DistanciaEntreDoisPontos.Execute },
+
+
+
 
             });
             start.SelectAndExecute();
