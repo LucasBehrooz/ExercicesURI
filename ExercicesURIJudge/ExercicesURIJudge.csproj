@@ -51,6 +51,14 @@
     <Compile Include="Beginner\1005_MediaOne.cs" />
     <Compile Include="Beginner\1006_MediaTwo.cs" />
     <Compile Include="Beginner\1007_Diferenca.cs" />
+    <Compile Include="Beginner\1008_Salario.cs" />
+    <Compile Include="Beginner\1009_SalarioComBonus.cs" />
+    <Compile Include="Beginner\1010_CalculoSimples.cs" />
+    <Compile Include="Beginner\1011_Esfera.cs" />
+    <Compile Include="Beginner\1012_Area.cs" />
+    <Compile Include="Beginner\1013_OMaior.cs" />
+    <Compile Include="Beginner\1014_Consumo.cs" />
+    <Compile Include="Beginner\1015_DistanciaEntreDoisPontos.cs" />
     <Compile Include="MenuUri.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
