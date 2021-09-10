@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beginner\1016_Distancia.cs" />
     <Compile Include="Beginner\1001_ExtremamenteBasico.cs" />
     <Compile Include="Beginner\1002_AreaDoCirculo.cs" />
     <Compile Include="Beginner\1000_HelloWorld.cs" />
