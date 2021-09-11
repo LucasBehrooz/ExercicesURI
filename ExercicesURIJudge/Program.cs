@@ -31,6 +31,23 @@ namespace ExercicesURIJudge
                 {"1014 - Consumo", _1014_Consumo.Execute },
                 {"1015 - Distância Entre Dois Pontos", _1015_DistanciaEntreDoisPontos.Execute },
                 {"1016 - Distância", _1016_Distancia.Execute },
+                {"1017 - Gasto de Combustível", _1017_GastoDeCombustivel.Execute },
+                {"1018 - Cédulas", _1018_Cedulas.Execute },
+                {"1019 - Conversão de Tempo", _1019_ConversaoDeTempo.Execute },
+                {"1020 - Idade em Dias", _1020_IdadeEmDias.Execute },
+                {"1021 - Notas e Moedas", _1021_NotasEMoedas.Execute },
+                {"1035 - Teste de Seleção 1", _1035_TesteDeSelecaoOne.Execute },
+                {"1036 - Formula de Bhaskara", _1036_FormulaDeBhaskara.Execute },
+                {"1037 - Intervalo", _1037_Intervalo.Execute },
+                {"1038 - Lanche", _1038_Lanche.Execute },
+                {"1040 - Média 3", _1038_Lanche.Execute },
+                {"1041 - Coordenadas de um Ponto", _1041_CoordenadasPonto.Execute },
+                {"1042 - Sort Simples", _1042_SortSimples.Execute },
+                {"1043 - Triângulo", _1043_Triangulo.Execute },
+                {"1044 - Múltiplos", _1044_Multiplos.Execute },
+                {"1045 - Tipos de Triângulos", _1045_TiposDeTriangulos.Execute },
+
+              
 
 
 

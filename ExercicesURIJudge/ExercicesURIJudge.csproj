@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beginner\1019_ConversaoDeTempo.cs" />
     <Compile Include="Beginner\1016_Distancia.cs" />
     <Compile Include="Beginner\1001_ExtremamenteBasico.cs" />
     <Compile Include="Beginner\1002_AreaDoCirculo.cs" />
@@ -69,6 +70,20 @@
     <Compile Include="Beginner\1013_OMaior.cs" />
     <Compile Include="Beginner\1014_Consumo.cs" />
     <Compile Include="Beginner\1015_DistanciaEntreDoisPontos.cs" />
+    <Compile Include="Beginner\1017_GastoDeCombustivel.cs" />
+    <Compile Include="Beginner\1018_Cedulas.cs" />
+    <Compile Include="Beginner\1020_IdadeEmDias.cs" />
+    <Compile Include="Beginner\1021_NotasEMoedas.cs" />
+    <Compile Include="Beginner\1035_TesteDeSelecaoOne.cs" />
+    <Compile Include="Beginner\1036_FormulaDeBhaskara.cs" />
+    <Compile Include="Beginner\1037_Intervalo.cs" />
+    <Compile Include="Beginner\1038_Lanche.cs" />
+    <Compile Include="Beginner\1040_MediaThree.cs" />
+    <Compile Include="Beginner\1041_CoordenadasPonto.cs" />
+    <Compile Include="Beginner\1042_SortSimples.cs" />
+    <Compile Include="Beginner\1043_Triangulo.cs" />
+    <Compile Include="Beginner\1044_Multiplos.cs" />
+    <Compile Include="Beginner\1045_TiposDeTriangulos.cs" />
     <Compile Include="MenuUri.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -78,6 +93,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="SQL\2602_SelectBasico.txt" />
+    <Content Include="SQL\2603_EnderecoDosClientes.txt" />
+    <Content Include="SQL\2604_MenoresQue10ouMaioresque100.txt" />
+    <Content Include="SQL\2605_RepresentantesExecutivos.txt" />
+    <Content Include="SQL\2606_Categorias.txt" />
+    <Content Include="SQL\2607_CidadesEmOrdemAlfabetica.txt" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup Condition="$(VisualStudioVersion) == '17.0'">
